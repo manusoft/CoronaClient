@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "CoronaClient (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "CoronaClient (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
